@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.movie.store"},{"l":"com.movie.store.config"},{"l":"com.movie.store.controller"},{"l":"com.movie.store.dto"},{"l":"com.movie.store.exception"},{"l":"com.movie.store.repository"},{"l":"com.movie.store.service"}]

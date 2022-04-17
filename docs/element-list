@@ -1,0 +1,7 @@
+com.movie.store
+com.movie.store.config
+com.movie.store.controller
+com.movie.store.dto
+com.movie.store.exception
+com.movie.store.repository
+com.movie.store.service
